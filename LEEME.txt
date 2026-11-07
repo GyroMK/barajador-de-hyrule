@@ -1,0 +1,25 @@
+BARAJADOR DE HYRULE
+Randomizer de Ocarina of Time para el remake de Nintendo Switch 2 (0400486024DEC000, versión 1.0.1).
+
+QUÉ NECESITAS
+- Tu propia copia del juego en formato .nup (con la actualización 1.0.1).
+- Un emulador que cargue mods sobre .nup (Lichii con el cambio #203 o posterior).
+- Python 3.14 (gratis, python.org). En Windows, marca «Add python.exe to PATH» al instalarlo.
+  (También vale Python 3.10 o posterior si ejecutas:  python -m pip install zstandard)
+
+CÓMO SE USA
+1. Abre «Barajador de Hyrule.html» en el navegador, elige tus ajustes y pulsa Generar.
+2. Pulsa «Semilla .json» para descargar la semilla (lleva las pistas en español e inglés).
+3. Cierra el emulador.
+   Windows: arrastra el archivo de la semilla (.json) y suéltalo encima de «Aplicar semilla.bat».
+   Linux/Mac: abre «Aplicar semilla.sh» y suelta el archivo en la terminal.
+   La primera vez te pide la ruta de tu .nup y la carpeta de mods del emulador ("load").
+   Truco: puedes arrastrar el .nup y la carpeta a la ventana en vez de escribir las rutas.
+4. Abre el juego y empieza una partida nueva. El spoiler queda en spoiler.txt.
+
+Para jugar sin el randomizer, borra la carpeta «Barajador de Hyrule» de la carpeta de mods.
+
+NOTAS
+- Este programa no incluye ningún fichero del juego. Lee los que necesita de tu .nup y crea un mod pequeño.
+- Cada semilla se comprueba antes de aplicarse: siempre se puede terminar.
+- La lógica viene del OoT Randomizer (licencia MIT), adaptada al remake.

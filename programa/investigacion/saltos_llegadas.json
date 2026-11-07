@@ -1,0 +1,26 @@
+{
+ "Defeat_Ganon": [
+  "Dm_InsideGanonCastle_0003"
+ ],
+ "Dm_SY_BancChangeArrive": [
+  "Dm_DeathMtCrater_0000",
+  "Dm_DeathMtTrail_0000",
+  "Dm_Deku_0000",
+  "Dm_DesertColossus_0000",
+  "Dm_GanonCastle_0000",
+  "Dm_Goron_0000",
+  "Dm_HrlCastle_0005",
+  "Dm_LakeHrl_0000",
+  "Dm_ZoraFountain_0000",
+  "Dm_Zora_0000"
+ ],
+ "Entry_LonLonRanch": [
+  "Dm_LonLon_0010"
+ ],
+ "Get_StoneOfWater": [
+  "Dm_InsideJabu_Jabu_0000"
+ ],
+ "Goto_HyruleCastle": [
+  "Dm_HrlField_0000"
+ ]
+}

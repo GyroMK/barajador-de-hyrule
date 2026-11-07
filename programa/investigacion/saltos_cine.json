@@ -1,0 +1,142 @@
+{
+ "AllSage": [
+  "Dm_SageRoom_0010",
+  "Dm_TimeTemple_0050",
+  "Dm_TimeTemple_0090",
+  "Dm_TimeTemple_0095",
+  "Dm_TimeTemple_0110",
+  "Dm_TimeTemple_0115",
+  "Dm_TimeTemple_0125",
+  "Dm_TimeTemple_0135"
+ ],
+ "Defeat_Ganon": [
+  "Dm_InsideGanonCastle_0000",
+  "Dm_InsideGanonCastle_0003",
+  "Dm_InsideGanonCastle_0015",
+  "Dm_InsideGanonCastle_0025",
+  "Dm_InsideGanonCastle_0032",
+  "Dm_InsideGanonCastle_0055",
+  "Dm_InsideGanonCastle_0075",
+  "Dm_InsideGanonCastle_0085",
+  "Dm_InsideGanonCastle_0090",
+  "Dm_InsideGanonCastle_0110",
+  "Dm_InsideGanonCastle_BossIn",
+  "Dm_SageRoom_0020",
+  "Dm_SageRoom_0025",
+  "Dm_SageRoom_0027"
+ ],
+ "Dm_Kokiri_0045": [
+  "Dm_Kokiri_0050"
+ ],
+ "Dm_SY_BancChangeArrive": [
+  "Dm_Kakariko_0030",
+  "Dm_Kakariko_0040"
+ ],
+ "Dm_SY_BancChange_EscapeDungeon": [
+  "Dm_Awake_Fire",
+  "Dm_Awake_Forest",
+  "Dm_Awake_Shadow",
+  "Dm_Awake_Spirit",
+  "Dm_Awake_Water",
+  "Dm_DeathMtTrail_0020",
+  "Dm_Kakariko_0025",
+  "Dm_Kokiri_0090",
+  "Dm_Kokiri_0095",
+  "Dm_Kokiri_0140",
+  "Dm_Kokiri_0158",
+  "Dm_Kokiri_0160",
+  "Dm_LakeHrl_0020",
+  "Dm_ZoraFountain_0020"
+ ],
+ "DoorOfTime": [
+  "Dm_HrlField_0060",
+  "Dm_SageRoom_0000",
+  "Dm_TimeTemple_0010",
+  "Dm_TimeTemple_0020",
+  "Dm_TimeTemple_0040"
+ ],
+ "GerudoValley": [
+  "Dm_GerudoValley_0010",
+  "Dm_GerudoValley_0020"
+ ],
+ "Get_Epona": [
+  "Dm_HrlField_0070",
+  "Dm_HrlField_0071",
+  "Dm_HrlField_0072",
+  "Dm_HrlField_0073"
+ ],
+ "Get_StoneOfFire": [
+  "Dm_DodongoCave_BossIn",
+  "Dm_Goron_0020",
+  "Dm_Goron_0025"
+ ],
+ "Get_StoneOfForest": [
+  "Dm_Deku_BossIn"
+ ],
+ "Get_StoneOfWater": [
+  "Dm_InsideJabu_Jabu_0010",
+  "Dm_InsideJabu_Jabu_0020",
+  "Dm_InsideJabu_Jabu_BossIn",
+  "Dm_ZoraFountain_0010"
+ ],
+ "GoronCity_LargePot": [
+  "Dm_Goron_0010",
+  "Dm_Goron_0040",
+  "Dm_Goron_0045"
+ ],
+ "Goto_HyruleCastle": [
+  "Dm_HrlCastle_0030",
+  "Dm_HrlCastle_0045",
+  "Dm_HrlCastle_0060",
+  "Dm_HrlField_0000",
+  "Dm_HrlField_0005",
+  "Dm_Kokiri_0150"
+ ],
+ "Market_Adult_Field_AdultToChild": [
+  "Dm_TimeTemple_0070"
+ ],
+ "Market_Child_Field_ChildToAdult": [
+  "Dm_TimeTemple_0080"
+ ],
+ "Meet_DekuTree": [
+  "Dm_Kokiri_0070"
+ ],
+ "Npc_Kaepora_DeathMountainTrail": [
+  "Dm_DeathMtTrail_0030"
+ ],
+ "Npc_Kaepora_LakeHylia": [
+  "Dm_LakeHrl_0010"
+ ],
+ "OpeningEvent": [
+  "Dm_Kokiri_0000",
+  "Dm_Kokiri_0030"
+ ],
+ "SageOfFire": [
+  "Dm_FireTemple_0000",
+  "Dm_FireTemple_BossIn"
+ ],
+ "SageOfForest": [
+  "Dm_ForestTemple_BossIn",
+  "Dm_LostWood_0021"
+ ],
+ "SageOfShadow": [
+  "Dm_ShadowTemple_BossIn"
+ ],
+ "SageOfSpirit": [
+  "Dm_DesertColossus_0020",
+  "Dm_DesertColossus_0030",
+  "Dm_SpiritTemple_0010",
+  "Dm_SpiritTemple_0020",
+  "Dm_SpiritTemple_0030",
+  "Dm_SpiritTemple_BossIn",
+  "Dm_TimeTemple_0086",
+  "Dm_TimeTemple_0087"
+ ],
+ "SageOfWater": [
+  "Dm_WaterTemple_0010",
+  "Dm_WaterTemple_BossIn"
+ ],
+ "SubEvent_GetFireArrow": [
+  "Dm_LakeHrl_0030"
+ ]
+}
