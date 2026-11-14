@@ -11,8 +11,8 @@ CÓMO SE USA
 1. Abre «Barajador de Hyrule.html» en el navegador, elige tus ajustes y pulsa Generar.
 2. Pulsa «Semilla .json» para descargar la semilla (lleva las pistas en español e inglés).
 3. Cierra el emulador.
-   Windows: arrastra el archivo de la semilla (.json) y suéltalo encima de «Aplicar semilla.bat».
-   Linux/Mac: abre «Aplicar semilla.sh» y suelta el archivo en la terminal.
+   Windows: arrastra el archivo de la semilla (.json) y suéltalo encima de «seed.bat».
+   Linux/Mac: abre «seed.sh» y suelta el archivo en la terminal.
    La primera vez te pide la ruta de tu .nup y la carpeta de mods del emulador ("load").
    Truco: puedes arrastrar el .nup y la carpeta a la ventana en vez de escribir las rutas.
 4. Abre el juego y empieza una partida nueva. El spoiler queda en spoiler.txt.

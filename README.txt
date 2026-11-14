@@ -11,8 +11,8 @@ HOW TO USE IT
 1. Open "Barajador de Hyrule.html" in your browser, pick your settings and press Generate.
 2. Press "Semilla .json" to download the seed (it includes the hints in English and Spanish).
 3. Close the emulator.
-   Windows: drag the seed .json file and drop it on "Aplicar semilla.bat".
-   Linux/Mac: run "Aplicar semilla.sh" and drop the file into the terminal.
+   Windows: drag the seed .json file and drop it on "seed.bat".
+   Linux/Mac: run "seed.sh" and drop the file into the terminal.
    The first time it asks for your .nup file and your emulator's mod folder ("load").
    Tip: you can drag the .nup and the folder into the window instead of typing the paths.
 4. Start the game and begin a new file. The spoiler log is saved as spoiler.txt.
