@@ -1,0 +1,22 @@
+{
+"fichero": "Logic/Market_Child_Prefab_7dcb.logic.module.ainb",
+"sha256_original": "0d92230b52ceea2c155fb966f02d72bdb20cbf6f04de034f1c0f22388e5ebd84",
+"sha256_resultado": "eff505f744d2e4872421eb1d9eeebd66b253e68fedfd872035f3f4eedcf094af",
+"nota": "Delta propio (2026-11-12): la tienda de máscaras y el perro Richard dejan de esperar a Npc_Hylia_Soldier_003_GateOpen (guardia de la puerta de Kakariko, carta de Zelda) y miran HavePlayedEvent.Dm_LonLon_0010, siempre encendida al empezar. Misma longitud: sustitución en la tabla de cadenas.",
+"ops": [
+[
+"copia",
+0,
+8800
+],
+[
+"nuevo",
+"48617665506c617965644576656e742e446d5f4c6f6e4c6f6e5f3030313000"
+],
+[
+"copia",
+8831,
+9182
+]
+]
+}
